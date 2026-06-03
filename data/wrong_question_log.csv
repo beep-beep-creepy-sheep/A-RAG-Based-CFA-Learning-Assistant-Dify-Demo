@@ -1,0 +1,4 @@
+date,question_id,topic,user_question,expected_concept,user_answer,correct_answer,error_type,source_note,next_review_date,status
+2026-06-03,WQ001,Fixed Income,"Why does a bond price fall when yield rises?",Bond price-yield inverse relationship,,,"conceptual misunderstanding",bond_price_yield.md,2026-06-05,open
+2026-06-03,WQ002,Portfolio Management,"When is Sharpe ratio misleading?",Sharpe ratio limitations,,,"common trap",sharpe_ratio.md,2026-06-05,open
+2026-06-03,WQ003,Ethics,"Can an advisor recommend a suitable but not optimal product?",Suitability and client interests,,,"ethics judgement",ethics_suitability.md,2026-06-05,open
