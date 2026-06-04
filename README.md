@@ -1,4 +1,4 @@
-# CFA RAG Learning Assistant MVP
+# CFA RAG Learning Assistant demo based on Dify
 
 This workspace contains a minimal Dify + Gemini API demo package for a CFA RAG learning assistant.
 
